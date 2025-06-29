@@ -273,9 +273,9 @@ function generateAndUpdateToken($chat_id, $state, $message_id = null) {
                    "⏱️ Time Taken: $time_taken minutes\n" .
                    "🌐 APIs Used: 1\n" .
                    "🔥 Next Update On: $next_update_formatted\n\n" .
-                   "🤖 Bot codes by @nr_codex\n" .
-                   "🔑 Jwt api by @I_SHOW_akiru\n" .
-                   "📲 Join Telegram @nr_codex";
+                   "🤖 Bot codes by @Dholu_Auto_token_update_bot\n" .
+                   "🔑 Jwt api by @Dholujangir0008\n" .
+                   "📲 Join Telegram @ummedkhati";
 
         $reply_markup = [
             'inline_keyboard' => [
